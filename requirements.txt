@@ -1,0 +1,7 @@
+yfinance==0.2.44
+pandas==2.2.3
+numpy==2.1.2
+matplotlib==3.9.2
+openai==1.52.0
+pyspark==3.5.3
+delta-spark==3.2.1
